@@ -12,10 +12,10 @@
 <h1>Commodore 64</h1>
 
 <h5>[Navigation]</h5>
-<h5><a href="index.html">Home</a></h5>
-<h5><a href="apple-ii.html">Apple II</a></h5>
+<h5><a href="index.md">Home</a></h5>
+<h5><a href="apple-ii.md">Apple II</a></h5>
 <h5><em>Commodore 64</em></h5>
-</h5><a href="TRS-80.html">TRS 80</a></h5>
+</h5><a href="TRS-80.md">TRS 80</a></h5>
 <!-- Remember to add te link tags to the navigation-->
 
 <img src="commodore-64.jpg" alt="Commodore 64">
